@@ -29,7 +29,7 @@ Thank you for your interest in contributing to **Neural Network Visualizer**! Th
 - **Setup**:
   ```bash
   npm install
-  npm run dev
+  npm start
   ```
 - Access the app at [http://localhost:5173](http://localhost:5173).
 
