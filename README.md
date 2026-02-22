@@ -72,7 +72,7 @@
 
 3. **Start the development server**:
    ```bash
-   npm run dev
+   npm start
    ```
 
 4. **Access the app**:
